@@ -3,10 +3,10 @@
 El procedimiento que se describe a continuación está basado en el tutorial [How To Install R on Ubuntu 16.04 | Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2). Debe ser ejecutado por un usuario con derechos de ```sudo```.
 
 ```terminal
-# Descarga de las llaves de autenticación
+# Descarga de las llaves de autenticación del repositorio con los paquetes de R
 $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
 
-# Adición del repositorio
+# Adición del repositorio con los paquetes de R
 $ sudo add-apt-repository 'deb [arch=amd64,i386] https://cran.rstudio.com/bin/linux/ubuntu xenial/'
 
 # Actualización de los repositorios
