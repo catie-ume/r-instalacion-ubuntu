@@ -1,6 +1,6 @@
 # Instalación de R en el sistema operativo Ubuntu
 
-El procedimiento que se describe a continuación está basado en el tutorial [How To Install R on Ubuntu 16.04 | Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2). Instala la versión más reciente que esté disponible en los repositorios de [R](https://www.r-project.org/). Debe ser ejecutado por un usuario con derechos de ```sudo```.
+El procedimiento que se describe a continuación está basado en el tutorial [How To Install R on Ubuntu 16.04 | Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-r-on-ubuntu-16-04-2). Instala la versión más reciente que esté disponible en los repositorios de [R](https://www.r-project.org/). Debe ser ejecutado por un usuario con derechos de ```sudo``` en una terminal del sistema operativo.
 
 El procedimiento fue probado en una instalación de [Ubuntu 16.04 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/).
 
