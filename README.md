@@ -18,11 +18,11 @@ $ sudo apt-get update
 # Instalación de R
 $ sudo apt-get install r-base
 
-## Inicio de R (en modo superusuario para, por ejemplo, instalar paquetes)
+# Inicio de R (en modo superusuario para, por ejemplo, instalar paquetes)
 $ sudo -i R
 ```
 
-Ejemplo de instalación de paquetes (desde la línea de comandos de R):
+## Ejemplo de instalación de paquetes (desde la línea de comandos de R):
 ```terminal
 > install.packages('txtplot')
 ```
