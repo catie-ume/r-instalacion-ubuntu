@@ -13,7 +13,7 @@ $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65D
 $ sudo add-apt-repository 'deb [arch=amd64,i386] https://cran.rstudio.com/bin/linux/ubuntu xenial/'
 
 # Actualización de los repositorios
-$ sudo apt-get update
+$ sudo apt update
 
 # Instalación del ambiente base de R
 $ sudo apt install r-base
