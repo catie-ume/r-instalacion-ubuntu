@@ -4,7 +4,7 @@ El procedimiento que se describe a continuación está basado en el tutorial [Ho
 
 El procedimiento fue probado en una instalación de [Ubuntu 16.04 LTS (Xenial Xerus)](http://releases.ubuntu.com/16.04/).
 
-Instalación del ambiente base (desde la línea de comandos de Ubuntu):
+## Instalación del ambiente base (desde la línea de comandos de Ubuntu)
 ```terminal
 # Descarga de las llaves de autenticación del repositorio con los paquetes de R
 $ sudo apt-key adv --keyserver keyserver.ubuntu.com --recv-keys E298A3A825C0D65DFD57CBB651716619E084DAB9
@@ -18,7 +18,7 @@ $ sudo apt-get update
 # Instalación de R
 $ sudo apt-get install r-base
 
-# Inicio de R (en modo superusuario para, por ejemplo, instalar paquetes)
+## Inicio de R (en modo superusuario para, por ejemplo, instalar paquetes)
 $ sudo -i R
 ```
 
