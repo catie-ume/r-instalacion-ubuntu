@@ -16,7 +16,7 @@ $ sudo add-apt-repository 'deb [arch=amd64,i386] https://cran.rstudio.com/bin/li
 $ sudo apt-get update
 
 # Instalación del ambiente base de R
-$ sudo apt-get install r-base
+$ sudo apt install r-base
 
 # Inicio de R (en modo superusuario para, por ejemplo, instalar paquetes)
 $ sudo -i R
