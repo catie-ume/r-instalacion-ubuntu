@@ -21,7 +21,7 @@ $ sudo apt-get install r-base
 $ sudo -i R
 ```
 
-Ejemplo de instalación de paquetes
+Ejemplo de instalación de paquetes (desde la línea de comandos de R):
 ```terminal
 > install.packages('txtplot')
 ```
